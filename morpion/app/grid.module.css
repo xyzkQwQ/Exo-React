@@ -1,0 +1,25 @@
+.board {
+  background-color: #efebeb;
+  border: 1px solid #999;
+  float: left;
+  font-size: 24px;
+  font-weight: bold;
+  height: 34px;
+  text-align: center;
+}
+
+.boardrow:after {
+  clear: both;
+  content: "";
+  display: table;
+}
+
+.status {
+  margin-bottom: 20px;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.boardrow {
+  display: flex;
+}

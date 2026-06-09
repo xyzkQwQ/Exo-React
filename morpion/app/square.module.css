@@ -1,0 +1,31 @@
+.square {
+  background: gray;
+  border: 1px solid #999;
+  float: left;
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+  width: 64px;
+  height: 64px;
+}
+
+.square {
+    background: #fff;
+    border: 1px solid #999;
+    float: left;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    width: 64px;
+    height: 64px;
+}
+
+/* X en violet */
+.x {
+    color: plum;
+}
+
+/* O en violet */
+.o {
+    color: plum;
+}
